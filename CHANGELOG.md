@@ -1,3 +1,7 @@
+## 0.0.8
+
+- Minor fixes
+- 
 ## 0.0.7
 
 - Arabic language support
